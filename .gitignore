@@ -4,3 +4,4 @@
 *.pdf
 basic_dl/assignment/samples/
 basic_dl/*/lightning_logs/
+computer_vision/seminar05_objdet_rcnn/seminar_rcnn_data/*
